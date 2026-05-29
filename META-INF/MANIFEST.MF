@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Productive Bees
+Specification-Vendor: JDK Digital
+Specification-Version: 1.0
+Implementation-Title: productive-bees-1.19
+Implementation-Version: 1.19.2-0.10.7.2
+Implementation-Vendor: JDK Digital
+Implementation-Timestamp: 2023-06-04T12:49:21+0300
+

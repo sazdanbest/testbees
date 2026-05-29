@@ -1,0 +1,7 @@
+{
+  "render_type": "cutout",
+  "textures": {
+    "particle": "minecraft:block/redstone_block"
+  }
+}
+
